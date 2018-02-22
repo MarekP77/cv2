@@ -1,3 +1,6 @@
 hala
 kuchyň
 obývák
+technická místnost
+
+
